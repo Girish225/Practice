@@ -1,1 +1,2 @@
-This is test file in Git
+This is test file in GIT
+First change to file
